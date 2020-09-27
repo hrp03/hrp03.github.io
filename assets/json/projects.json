@@ -1,0 +1,111 @@
+[{
+        "title": "Face Detection in face-api.js",
+        "description": "Face detection application written in Javascript. It uses face-api.js, with pre trained model.",
+        "tags": [
+            { "label": "Javascript", "icon": "bullet-js" },
+            { "label": "Machine Learning", "icon": "bullet-ml" }
+        ],
+        "repoUrl": "https://github.com/hrp03/face-detection"
+    },
+    {
+        "title": "Time Meal Predictor with Brain.js",
+        "description": "Time predictor based on meal provided with Brain.js. Create and train model and make predictions with machine learning library in javascript.",
+        "tags": [
+            { "label": "Javascript", "icon": "bullet-js" },
+            { "label": "Machine Learning", "icon": "bullet-ml" }
+        ],
+        "repoUrl": "https://github.com/hrp03/time-meal-predictor"
+    },
+    {
+        "title": "Face Recognition using face-api.js",
+        "description": "Fake recognition demo web application written in javascript with face-api.js library implemented on top of tensorflow.js core.",
+        "tags": [
+            { "label": "Javascript", "icon": "bullet-js" },
+            { "label": "Machine Learning", "icon": "bullet-ml" }
+        ],
+        "repoUrl": "https://github.com/hrp03/face-recognition"
+    },
+    {
+        "title": "Android Eight Button",
+        "description": "Custom floating button with animation for android application.",
+        "tags": [
+            { "label": "Java", "icon": "bullet-java" }
+        ],
+        "repoUrl": "https://github.com/hrp03/AndroidEightButton"
+    },
+    {
+        "title": "IonicV1-MyApp",
+        "description": "The portfolio hybrid application, developed with Ionic version 1.",
+        "tags": [
+            { "label": "Javascript", "icon": "bullet-js" }
+        ],
+        "repoUrl": "https://github.com/hrp03/IonicV1-MyApp"
+    },
+    {
+        "title": "IonicV1-Palindrome",
+        "description": "Hybrid application to check palindrome, developed with Ionic version 1.",
+        "tags": [
+            { "label": "Javascript", "icon": "bullet-js" }
+        ],
+        "repoUrl": "https://github.com/hrp03/IonicV1-Palindrome"
+    },
+    {
+        "title": "IonicV1-Fibonacci",
+        "description": "Hybrid application to generate fibonacci series, developed with Ionic version 1.",
+        "tags": [
+            { "label": "Javascript", "icon": "bullet-js" }
+        ],
+        "repoUrl": "https://github.com/hrp03/IonicV1-Fibonacci"
+    },
+    {
+        "title": "IonicV1-Prime",
+        "description": "Hybrid application to check prime number, developed with Ionic version 1.",
+        "tags": [
+            { "label": "Javascript", "icon": "bullet-js" }
+        ],
+        "repoUrl": "https://github.com/hrp03/IonicV1-Prime"
+    },
+    {
+        "title": "AES Cryptography",
+        "description": "Program to encrypt and decrypt data between three languages Java, Swift and PHP",
+        "tags": [
+            { "label": "Java", "icon": "bullet-java" },
+            { "label": "Swift", "icon": "bullet-swift" },
+            { "label": "PHP", "icon": "bullet-php" }
+        ],
+        "repoUrl": "https://github.com/hrp03/AES-Cryptography"
+    },
+    {
+        "title": "Python-Experiments",
+        "description": "Python programs",
+        "tags": [
+            { "label": "Python", "icon": "bullet-py" }
+        ],
+        "repoUrl": "https://github.com/hrp03/Python-Experiments"
+    },
+    {
+        "title": "Java-Experiments",
+        "description": "Java programs",
+        "tags": [
+            { "label": "Java", "icon": "bullet-java" }
+        ],
+        "repoUrl": "https://github.com/hrp03/Java-Experiments"
+    },
+    {
+        "title": "PHP-Experiments",
+        "description": "PHP programs",
+        "tags": [
+            { "label": "PHP", "icon": "bullet-php" }
+        ],
+        "repoUrl": "https://github.com/hrp03/PHP-Experiments"
+    },
+    {
+        "title": "ObjectiveC-Experiments",
+        "description": "ObjectiveC programs",
+        "tags": [
+            { "label": "Objective C", "icon": "bullet-oc" }
+        ],
+        "repoUrl": "https://github.com/hrp03/ObjectiveC-Experiments"
+    }
+
+]
