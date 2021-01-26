@@ -106,6 +106,14 @@
             { "label": "Objective C", "icon": "bullet-oc" }
         ],
         "repoUrl": "https://github.com/hrp03/ObjectiveC-Experiments"
+    },
+    {
+        "title": "HTML5 Games",
+        "description": "HTML5 Games for Web",
+        "tags": [
+            { "label": "Javascript", "icon": "bullet-js" }
+        ],
+        "repoUrl": "https://github.com/hrp03/html5games"
     }
 
 ]
