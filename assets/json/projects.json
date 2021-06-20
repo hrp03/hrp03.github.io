@@ -1,119 +1,257 @@
-[{
-        "title": "Face Detection in face-api.js",
-        "description": "Face detection application written in Javascript. It uses face-api.js, with pre trained model.",
-        "tags": [
-            { "label": "Javascript", "icon": "bullet-js" },
-            { "label": "Machine Learning", "icon": "bullet-ml" }
-        ],
-        "repoUrl": "https://github.com/hrp03/face-detection"
+[
+    {
+        "title": "Artificial Intelligence",
+        "projects": [
+            {
+                "title": "Face Detection in face-api.js",
+                "description": "Face detection application written in Javascript. It uses face-api.js, with pre trained model.",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    },
+                    {
+                        "label": "Machine Learning",
+                        "icon": "bullet-ml"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/face-detection",
+                "demoUrl": "https://hrp03.github.io/face-detection/"
+            },
+            {
+                "title": "Time Meal Predictor with Brain.js",
+                "description": "Time predictor based on meal provided with Brain.js. Create and train model and make predictions with machine learning library in javascript.",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    },
+                    {
+                        "label": "Machine Learning",
+                        "icon": "bullet-ml"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/time-meal-predictor"
+            },
+            {
+                "title": "Face Recognition using face-api.js",
+                "description": "Fake recognition demo web application written in javascript with face-api.js library implemented on top of tensorflow.js core.",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    },
+                    {
+                        "label": "Machine Learning",
+                        "icon": "bullet-ml"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/face-recognition"
+            }
+        ]
     },
     {
-        "title": "Time Meal Predictor with Brain.js",
-        "description": "Time predictor based on meal provided with Brain.js. Create and train model and make predictions with machine learning library in javascript.",
-        "tags": [
-            { "label": "Javascript", "icon": "bullet-js" },
-            { "label": "Machine Learning", "icon": "bullet-ml" }
-        ],
-        "repoUrl": "https://github.com/hrp03/time-meal-predictor"
+        "title": "Web",
+        "projects": [
+            {
+                "title": "Motion Particle",
+                "description": "Animated particle connected with threads",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/particle-motion",
+                "demoUrl": "https://hrp03.github.io/particle-motion/"
+            },
+            {
+                "title": "hp-thought",
+                "description": "This project is an application to make shareable images. It is developed with Angular and many beautiful libraries of web.",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/hp-thought",
+                "demoUrl": "https://hrp03.github.io/hp-thought/#/"
+            }
+        ]
     },
     {
-        "title": "Face Recognition using face-api.js",
-        "description": "Fake recognition demo web application written in javascript with face-api.js library implemented on top of tensorflow.js core.",
-        "tags": [
-            { "label": "Javascript", "icon": "bullet-js" },
-            { "label": "Machine Learning", "icon": "bullet-ml" }
-        ],
-        "repoUrl": "https://github.com/hrp03/face-recognition"
+        "title": "Android",
+        "projects": [
+            {
+                "title": "Android Eight Button",
+                "description": "Custom floating button with animation for android application.",
+                "tags": [
+                    {
+                        "label": "Java",
+                        "icon": "bullet-java"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/AndroidEightButton"
+            },
+            {
+                "title": "hp-clock",
+                "description": "Simple digital clock",
+                "tags": [
+                    {
+                        "label": "Java",
+                        "icon": "bullet-java"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/hp-clock"
+            },
+            {
+                "title": "IonicV1-MyApp",
+                "description": "The portfolio hybrid application, developed with Ionic version 1.",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/IonicV1-MyApp"
+            },
+            {
+                "title": "IonicV1-Palindrome",
+                "description": "Hybrid application to check palindrome, developed with Ionic version 1.",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/IonicV1-Palindrome"
+            },
+            {
+                "title": "IonicV1-Fibonacci",
+                "description": "Hybrid application to generate fibonacci series, developed with Ionic version 1.",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/IonicV1-Fibonacci"
+            },
+            {
+                "title": "IonicV1-Prime",
+                "description": "Hybrid application to check prime number, developed with Ionic version 1.",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/IonicV1-Prime"
+            }
+        ]
     },
     {
-        "title": "Android Eight Button",
-        "description": "Custom floating button with animation for android application.",
-        "tags": [
-            { "label": "Java", "icon": "bullet-java" }
-        ],
-        "repoUrl": "https://github.com/hrp03/AndroidEightButton"
+        "title": "Python",
+        "projects": [
+            {
+                "title": "Python-Experiments",
+                "description": "Python programs",
+                "tags": [
+                    {
+                        "label": "Python",
+                        "icon": "bullet-py"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/Python-Experiments"
+            }
+        ]
     },
     {
-        "title": "IonicV1-MyApp",
-        "description": "The portfolio hybrid application, developed with Ionic version 1.",
-        "tags": [
-            { "label": "Javascript", "icon": "bullet-js" }
-        ],
-        "repoUrl": "https://github.com/hrp03/IonicV1-MyApp"
+        "title": "Java",
+        "projects": [
+            {
+                "title": "Java-Experiments",
+                "description": "Java programs",
+                "tags": [
+                    {
+                        "label": "Java",
+                        "icon": "bullet-java"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/Java-Experiments"
+            }
+        ]
     },
     {
-        "title": "IonicV1-Palindrome",
-        "description": "Hybrid application to check palindrome, developed with Ionic version 1.",
-        "tags": [
-            { "label": "Javascript", "icon": "bullet-js" }
-        ],
-        "repoUrl": "https://github.com/hrp03/IonicV1-Palindrome"
+        "title": "PHP",
+        "projects": [
+            {
+                "title": "PHP-Experiments",
+                "description": "PHP programs",
+                "tags": [
+                    {
+                        "label": "PHP",
+                        "icon": "bullet-php"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/PHP-Experiments"
+            }
+        ]
     },
     {
-        "title": "IonicV1-Fibonacci",
-        "description": "Hybrid application to generate fibonacci series, developed with Ionic version 1.",
-        "tags": [
-            { "label": "Javascript", "icon": "bullet-js" }
-        ],
-        "repoUrl": "https://github.com/hrp03/IonicV1-Fibonacci"
+        "title": "Games",
+        "projects": [
+            {
+                "title": "HTML5 Bike Game",
+                "description": "Bike Game",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/html5games"
+            }
+        ]
     },
     {
-        "title": "IonicV1-Prime",
-        "description": "Hybrid application to check prime number, developed with Ionic version 1.",
-        "tags": [
-            { "label": "Javascript", "icon": "bullet-js" }
-        ],
-        "repoUrl": "https://github.com/hrp03/IonicV1-Prime"
-    },
-    {
-        "title": "AES Cryptography",
-        "description": "Program to encrypt and decrypt data between three languages Java, Swift and PHP",
-        "tags": [
-            { "label": "Java", "icon": "bullet-java" },
-            { "label": "Swift", "icon": "bullet-swift" },
-            { "label": "PHP", "icon": "bullet-php" }
-        ],
-        "repoUrl": "https://github.com/hrp03/AES-Cryptography"
-    },
-    {
-        "title": "Python-Experiments",
-        "description": "Python programs",
-        "tags": [
-            { "label": "Python", "icon": "bullet-py" }
-        ],
-        "repoUrl": "https://github.com/hrp03/Python-Experiments"
-    },
-    {
-        "title": "Java-Experiments",
-        "description": "Java programs",
-        "tags": [
-            { "label": "Java", "icon": "bullet-java" }
-        ],
-        "repoUrl": "https://github.com/hrp03/Java-Experiments"
-    },
-    {
-        "title": "PHP-Experiments",
-        "description": "PHP programs",
-        "tags": [
-            { "label": "PHP", "icon": "bullet-php" }
-        ],
-        "repoUrl": "https://github.com/hrp03/PHP-Experiments"
-    },
-    {
-        "title": "ObjectiveC-Experiments",
-        "description": "ObjectiveC programs",
-        "tags": [
-            { "label": "Objective C", "icon": "bullet-oc" }
-        ],
-        "repoUrl": "https://github.com/hrp03/ObjectiveC-Experiments"
-    },
-    {
-        "title": "HTML5 Games",
-        "description": "HTML5 Games for Web",
-        "tags": [
-            { "label": "Javascript", "icon": "bullet-js" }
-        ],
-        "repoUrl": "https://github.com/hrp03/html5games"
+        "title": "Miscellaneous",
+        "projects": [
+            {
+                "title": "AES Cryptography",
+                "description": "Program to encrypt and decrypt data between three languages Java, Swift and PHP",
+                "tags": [
+                    {
+                        "label": "Java",
+                        "icon": "bullet-java"
+                    },
+                    {
+                        "label": "Swift",
+                        "icon": "bullet-swift"
+                    },
+                    {
+                        "label": "PHP",
+                        "icon": "bullet-php"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/AES-Cryptography"
+            },
+            {
+                "title": "ObjectiveC",
+                "projects": [
+                    {
+                        "title": "ObjectiveC-Experiments",
+                        "description": "ObjectiveC programs",
+                        "tags": [
+                            {
+                                "label": "Objective C",
+                                "icon": "bullet-oc"
+                            }
+                        ],
+                        "repoUrl": "https://github.com/hrp03/ObjectiveC-Experiments"
+                    }
+                ]
+            }
+        ]
     }
-
 ]
