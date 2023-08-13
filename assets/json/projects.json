@@ -80,6 +80,23 @@
         ]
     },
     {
+        "title": "React",
+        "projects": [
+            {
+                "title": "Round Grid Clock",
+                "description": "Digital clock developed with circular numerical grid",
+                "tags": [
+                    {
+                        "label": "Javascript",
+                        "icon": "bullet-js"
+                    }
+                ],
+                "repoUrl": "https://github.com/hrp03/round-grid-clock",
+                "demoUrl": "https://hrp03.github.io/round-grid-clock/"
+            }
+        ]
+    },
+    {
         "title": "Android",
         "projects": [
             {
